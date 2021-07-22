@@ -1,0 +1,8 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="BronzaW-Lobby.jar" type="JarApplication">
+    <option name="JAR_PATH" value="$PROJECT_DIR$/out/artifacts/BronzaW_Lobby_jar/BronzaW-Lobby.jar" />
+    <option name="ALTERNATIVE_JRE_PATH" />
+    <module name="BronzaW-Lobby" />
+    <method v="2" />
+  </configuration>
+</component>
